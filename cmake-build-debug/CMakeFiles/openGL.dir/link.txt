@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/openGL.dir/src/main.cpp.o  -o openGL  -L/home/andreivoiculas/CLionProjects/OpenGL/GLFW/lib-mingw -Wl,-rpath,/home/andreivoiculas/CLionProjects/OpenGL/GLFW/lib-mingw -lglfw3 -lgdi32 -lopengl32 

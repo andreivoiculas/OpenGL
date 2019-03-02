@@ -1,0 +1,3 @@
+/home/andreivoiculas/OpenGL/CMakeFiles/rebuild_cache.dir
+/home/andreivoiculas/OpenGL/CMakeFiles/OpenGL.dir
+/home/andreivoiculas/OpenGL/CMakeFiles/edit_cache.dir

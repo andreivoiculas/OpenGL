@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -I/usr/include/libdrm -lglfw -lGL -g   CMakeFiles/OpenGL.dir/main.cpp.o  -o OpenGL 
